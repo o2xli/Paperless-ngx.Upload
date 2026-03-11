@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Paperless.Upload": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Temp\\test_please_ignore.pdf\" askfortag"
+    }
+  }
+}
